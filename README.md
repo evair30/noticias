@@ -7,7 +7,7 @@
      <link rel="stylesheet"href="./main.css"/>
      <style>
      *{
-          box-sizing: border-box;
+          box-sizing: ;
           margin: 0;
           padding: 0;
      
@@ -41,18 +41,18 @@
           width: 180px;
      }
      .article.article{
-          width: 33%;
+          width:;
      }
      header{background-color: brown;}
      section,section a{
-          background-color: rgb(0, 255, 76);
-          margin: inline
+          background-color: rgb();
+          margin: 
           block
           ;
      }
      
      header{
-          padding: 28px;
+          padding: ;
      
      }
      </style>
@@ -65,14 +65,14 @@
                <h1><p></p><title>NOTICÍAS</title></p></h1>
           <main>
                <ul>
-                    <h1><a href="Esporte"></a></h1>
-                    <h2><a href="Econômia"></a></h2>
-                    <h3><a href="Desigualdade"></a></h3>
-                    <h4><a href="Educação"></a></h4>
+                    <h1><a href=""></a></h1>
+                    <h2><a href=""></a></h2>
+                    <h3><a href=""></a></h3>
+                    <h4><a href=""></a></h4>
                </ul>
           <section>
           <div>
-               <div class="Containers Esportes"><section id="Esporte">
+               <div class="Containers"><section id="">
                     <div class="Esportes"></div>
                          <h1><p>Esportes:</p></h1>
                          <div class="article"></div>
@@ -89,46 +89,38 @@
                <div class="Econômia">
                     <div class="article">
                               <article>
-                              <h2><p><i>Econômia</i></p></h2>
-                              <article><h3><am>Dólar atingi R$5,60 ..</am></h3>
+                              <h2><p><i></i></p></h2>
+                              <article><h3><am></am></h3>
                               </br>
                               </hr>
-                              <h3><img src="https://ibb.co/bKPRnYb" /></h3>
-                              <button>ler mais<a href ="https://www.google.com/search?q=dolar+hoje&sca_esv=42f3e948118a1926&sca_upv=1&rlz=1C1PNQB_enBR1112BR1116&ei=JE6BZuG2Guu35OUPhNSmuAc&oq=dol&gs_lp=Egxnd3Mtd2l6LXNlcnAiA2RvbCoCCAAyCxAAGIAEGLEDGIMBMgsQABiABBixAxiDATIKEAAYgAQYQxiKBTIKEAAYgAQYQxiKBTIIEAAYgAQYsQMyCxAAGIAEGLEDGIMBMgoQABiABBhDGIoFMgoQABiABBhDGIoFMgoQABiABBhDGIoFMgsQABiABBixAxiDAUiBO1CvBli2IHACeAGQAQSYAb8BoAG9CaoBAzAuOLgBAcgBAPgBAZgCBqACqwWoAhTCAgoQABiwAxjWBBhHwgIHEAAYgAQYDcICBhAAGBYYHsICCBAAGBYYChgewgIIEAAYFhgeGA_CAggQABgFGA0YHsICChAAGAUYChgNGB7CAhMQABiABBhDGLQCGIoFGOoC2AEBwgIdEAAYgAQYtAIY1AMY5QIYtwMYigUY6gIYigPYAQHCAhYQLhgDGLQCGOUCGOoCGIwDGI8B2AECwgIWEAAYAxi0AhjlAhjqAhiMAxiPAdgBAsICCxAuGIAEGLEDGIMBwgIFEAAYgATCAg4QABiABBixAxiDARiKBcICChAuGIAEGEMYigXCAhAQABiABBixAxhDGIMBGIoFwgIREC4YgAQYsQMY0QMYgwEYxwHCAhkQLhiABBhDGIoFGJcFGNwEGN4EGOAE2AEDmAMi4gMFEgExIECIBgGQBgi6BgQIARgHugYGCAIQARgKugYGCAMQARgUkgcDMi40oAfKRQ&sclient=gws-wiz-serp"> ir para site dolár></a>
+                              <h3><img src="https:></h3>
+                              <button><a href =""=></a>
                               </button>
                               </article>
                     </div>      
                </div>
           </div> 
           </section></div>
-               <div class="Containers"><section id="Desigualdade">
-                    <div class="Desigualdade">
+               <div class="Containers"><section id="">
+                    <div class="">
                               <article>
                     <tr>Informações:
-                    <h2><p>Desigualdade salárial:</p></h2>
-                    <td><i>Negro recebe em media a menos que o calcaziano:
-                    Nas empresas listadas em 2017 na B3, a Bolsa brasileira, uma mulher que declara preta ou parda a cor da sua pele recebia em média R$ 36 para cada R$ 100 obtidos como salário por um homem branco.
-                    Esse grande desnível pouco variou nos dez anos anteriores, tendência que também se verificou para homens negros e mulheres brancas.</i></td>
-                    </br>
-                    </hr>
-                    <h3><img src="https://ibb.co/Gp6xry0"/></h3>
-                    <button>ler mais<a href="https://www.google.com/search?q=desigualdade+salarial+no+brasil&cvid=3629aba7581944a68f4209859053ca17&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQDIGCAcQABhAMgYICBAAGEDSAQkyOTkzNWowajSoAgiwAgE&FORM=ANAB01&ucpdpc=UCPD&PC=U531"> ir para Desigualdade-salarial></a>
+                    <h2><:</p></h2>
+                    <td><i></a>
                     </button>
                               </article>
                     </div>
                </div>
           </section>
-               <div class="Containers"><section id="Educação">
-                    <div class="Educação">
-                         <div class="article.Educação">
+               <div class="Containers"><section id="">
+                    <div class="">
+                         <div class="article">
                               </article>
-                              <h4><p>Educação:</p></h4>
+                              <h4><p></p></h4>
                               </br>
-                              <h4>Após quatro décadas, em 1980, houve aumento de 30,5 pontos percentuais na taxa de alfabetização,
-                              passando para 74,5% e, finalmente, depois de mais quatro décadas, o país atingiu um percentual 93% em 2022,
-                              representando um aumento de 18,5 pontos percentuais em relação a 1980</h4> 
-                              <h4><img src="https://ibb.co/sRc9nJF"></h4>
-                              <button>ler mais<a href ="https://www.google.com/search?q=educa%C3%A7ao+brazil&rlz=1C1PNQB_enBR1112BR1116&oq=educa%C3%A7ao+brazil&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgNGIAEMggIAhAAGBYYHjIKCAMQABgKGBYYHjIICAQQABgWGB4yCggFEAAYDxgWGB4yCggGEAAYBRgNGB4yCggHEAAYBRgNGB4yCggIEAAYBRgNGB4yCggJEAAYBRgNGB7SAQkxNTQ3NmowajSoAgCwAgE&sourceid=chrome&ie=UTF-8"> ir para site Educação ></a>
+                              <h4></h4> 
+                              <h4><img src=""></h4>
+                              <button> ></a>
                               </button>
                          </div>  
                     </div> 
